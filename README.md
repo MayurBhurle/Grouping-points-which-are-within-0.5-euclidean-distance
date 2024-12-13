@@ -1,3 +1,3 @@
 #Code for Yun Data Science Test
 
-Please open the code_file.ipynb to see code
+Please open the code.ipynb to see code
